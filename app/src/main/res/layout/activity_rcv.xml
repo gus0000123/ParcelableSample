@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RcvActivity">
+
+    <TextView
+        android:id="@+id/tvP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="11" />
+
+    <TextView
+        android:id="@+id/tvS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="22" />
+</LinearLayout>
