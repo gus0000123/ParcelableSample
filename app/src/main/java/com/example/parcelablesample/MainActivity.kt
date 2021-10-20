@@ -1,10 +1,10 @@
-package com.example.parcelablesampe
+package com.example.parcelablesample
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.parcelablesampe.model.ParcelableItem
-import com.example.parcelablesampe.model.SerializableItem
+import com.example.parcelablesample.model.ParcelableItem
+import com.example.parcelablesample.model.SerializableItem
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

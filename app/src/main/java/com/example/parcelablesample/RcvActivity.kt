@@ -1,12 +1,11 @@
-package com.example.parcelablesampe
+package com.example.parcelablesample
 
 import android.annotation.SuppressLint
 import android.os.Bundle
-import android.util.Log
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.parcelablesampe.model.ParcelableItem
-import com.example.parcelablesampe.model.SerializableItem
+import com.example.parcelablesample.model.ParcelableItem
+import com.example.parcelablesample.model.SerializableItem
 
 class RcvActivity : AppCompatActivity() {
     var TAG = javaClass.simpleName

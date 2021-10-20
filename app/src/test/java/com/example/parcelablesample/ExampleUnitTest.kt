@@ -1,4 +1,4 @@
-package com.example.parcelablesampe
+package com.example.parcelablesample
 
 import org.junit.Test
 

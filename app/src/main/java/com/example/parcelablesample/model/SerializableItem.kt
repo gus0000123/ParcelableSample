@@ -1,4 +1,4 @@
-package com.example.parcelablesampe.model
+package com.example.parcelablesample.model
 
 import java.io.Serializable
 
